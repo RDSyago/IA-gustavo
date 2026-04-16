@@ -1,0 +1,84 @@
+main{
+  width: 100%;
+  height: 100vh;
+  background: blue;
+  float: left;
+}
+.caixa{
+  width: 100%;
+  height: 5vh;
+  background: red;
+  margin-top: 5vh;
+  display: flex;
+}
+.bola1{
+  width: 11%;
+  height: auto;
+  aspect-ratio: 1/1;
+  border-radius: 200px;
+  background: #000;
+  float: left;
+  margin-left: 2%;
+}
+.bola2{
+  width: 11%;
+  height: auto;
+  aspect-ratio: 1/1;
+  border-radius: 200px;
+  background: #000;
+  float: left;
+  margin-left: 74%;
+}
+h1{
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 5vh;
+  float: left;
+  color: #fff;
+}
+.tela1{
+  width: 40%;
+  height: 30vh;
+  background: orange;
+  float: left;
+  margin-top: 5vh;
+  margin-left: 2%;
+  border-radius: 20px;
+}
+.tela2{
+  width: 25%;
+  height: 15vh;
+  background: #000;
+  float: left;
+  margin-left: 2%;
+  margin-top: 5vh;
+  border-radius: 20px;
+}
+.tela3{
+  width: 25%;
+  height: 15vh;
+  background: #000;
+  float: left;
+  margin-right: 20%;
+  margin-top: 0.3vh;
+  margin-left: 2%;
+  border-radius: 20px;
+}
+.perguntas{
+  width: 95%;
+  height: 10vh;
+  background: green;
+  float: left;
+  margin-top: 2vh;
+  margin-left: 2%;
+  border-radius: 30px;
+}
+.tela1 button{
+  width: 95%;
+  height: 3vh;
+  float: left;
+  margin-top: 25vh;
+  margin-left: 3%;
+  border-radius: 50px;
+  
+}
